@@ -1,0 +1,1 @@
+{"version":3,"sources":["src/main.js"],"names":[],"mappings":";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;AAAA;AACA;AACA;AACA;AACA","file":"c2f70f92909d8685f27baffb3c2d30af.map","sourcesContent":["\nclass Tetris {\n  constructor(container) {\n  }\n}"]}
